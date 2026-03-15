@@ -1,0 +1,262 @@
+{
+  "Morning Preparations": {
+    "color": "#7B9E87",
+    "items": [
+      {
+        "time": "06:30",
+        "event": "Bride wakes up",
+        "category": "Morning Preparations"
+      },
+      {
+        "time": "07:00",
+        "event": "Groom wakes up",
+        "category": "Morning Preparations"
+      },
+      {
+        "time": "07:15",
+        "event": "Makeup artist arrives at bride's house",
+        "category": "Morning Preparations"
+      },
+      {
+        "time": "08:00",
+        "event": "Makeup artist arrives at Groom's house",
+        "category": "Morning Preparations"
+      },
+      {
+        "time": "08:40",
+        "event": "Groom's entourage leaves for bride's house",
+        "category": "Morning Preparations"
+      },
+      {
+        "time": "08:45",
+        "event": "Photographer and videographer arrive",
+        "category": "Morning Preparations"
+      },
+      {
+        "time": "09:00",
+        "event": "Makeup Done, Bride should be dressed. Photos with parents and bridesmaids.",
+        "category": "Morning Preparations"
+      },
+      {
+        "time": "09:10",
+        "event": "Groom's entourage arrives",
+        "category": "Morning Preparations"
+      },
+      {
+        "time": "09:20",
+        "event": "Groom gains entry to the bride's room.",
+        "category": "Morning Preparations"
+      },
+      {
+        "time": "09:30",
+        "event": "Couple leaves for hotel",
+        "category": "Morning Preparations"
+      }
+    ]
+  },
+  "Arrival": {
+    "color": "#7A8FA6",
+    "items": [
+      {
+        "time": "10:00",
+        "event": "Couple arrive at hotel / Check in room",
+        "category": "Arrival"
+      },
+      {
+        "time": "10:15",
+        "event": "Briefing with Banquet Manager, Event Manager, Groom, Main Coordinator, AV Coordinator & Emcees Reception / Album table in charge to setup décor and items",
+        "category": "Arrival"
+      },
+      {
+        "time": "10:30",
+        "event": "Some outdoor shoot time?",
+        "category": "Arrival"
+      },
+      {
+        "time": "10:45",
+        "event": "AV Coordinator & Emcees to do AV linkup and rehearsal",
+        "category": "Arrival"
+      }
+    ]
+  },
+  "Tea Ceremony": {
+    "color": "#B07BA0",
+    "items": [
+      {
+        "time": "11:00",
+        "event": "Solemnisation Guests to be seated",
+        "category": "Tea Ceremony"
+      },
+      {
+        "time": "11:05",
+        "event": "Solemnisation Starts",
+        "category": "Tea Ceremony"
+      },
+      {
+        "time": "11:30",
+        "event": "Solemnisation Ends",
+        "category": "Tea Ceremony"
+      },
+      {
+        "time": "11:35",
+        "event": "Tea Ceremony Starts",
+        "category": "Tea Ceremony"
+      },
+      {
+        "time": "12:10",
+        "event": "Tea Ceremony Ends, Couple to change",
+        "category": "Tea Ceremony"
+      }
+    ]
+  },
+  "Reception": {
+    "color": "#B08A5A",
+    "items": [
+      {
+        "time": "11:45",
+        "event": "Pre-event reception to start",
+        "category": "Reception"
+      },
+      {
+        "time": "12:00",
+        "event": "Ensure Solemnisation setup is ready",
+        "category": "Reception"
+      },
+      {
+        "time": "12:30",
+        "event": "Ballroom doors open for guests to get seated",
+        "category": "Reception"
+      }
+    ]
+  },
+  "1st Walk In": {
+    "color": "#8A6B9E",
+    "items": [
+      {
+        "time": "12:40",
+        "event": "Ensure couple is on standby Emcee to start Programme Play 1st video",
+        "category": "1st Walk In"
+      },
+      {
+        "time": "12:45",
+        "event": "Play 1st March in Song Couple’s 1st March In ------------------- Reception table to close, keep all Angbaos in bridal room",
+        "category": "1st Walk In"
+      },
+      {
+        "time": "12:50",
+        "event": "Cake Cutting on Stage",
+        "category": "1st Walk In"
+      },
+      {
+        "time": "12:55",
+        "event": "Couple comes down, Serve 1st course",
+        "category": "1st Walk In"
+      },
+      {
+        "time": "13:05",
+        "event": "Photo session 1 starts",
+        "category": "1st Walk In"
+      },
+      {
+        "time": "13:10",
+        "event": "Serve 2nd course",
+        "category": "1st Walk In"
+      },
+      {
+        "time": "13:20",
+        "event": "Photo session 1 ends",
+        "category": "1st Walk In"
+      },
+      {
+        "time": "13:25",
+        "event": "Serve 3rd course",
+        "category": "1st Walk In"
+      },
+      {
+        "time": "13:30",
+        "event": "Couple to change",
+        "category": "1st Walk In"
+      },
+      {
+        "time": "13:40",
+        "event": "Serve 4th course",
+        "category": "1st Walk In"
+      },
+      {
+        "time": "13:55",
+        "event": "Serve 5th course, Recessional",
+        "category": "1st Walk In"
+      }
+    ]
+  },
+  "2nd Walk In": {
+    "color": "#9E6B6B",
+    "items": [
+      {
+        "time": "14:10",
+        "event": "Ensure couple is on standby Emcee to start announcement Play 2nd video/Play games?",
+        "category": "2nd Walk In"
+      },
+      {
+        "time": "14:15",
+        "event": "Play 2nd March in Song Couple’s 2nd March In",
+        "category": "2nd Walk In"
+      },
+      {
+        "time": "14:20",
+        "event": "Pop & pour the Champagne (Follow Banquet Manager cues) Return to center of stage for Cross-arm toast",
+        "category": "2nd Walk In"
+      },
+      {
+        "time": "14:25",
+        "event": "Invite family and friends on stage for Yum Seng (3 toasts)",
+        "category": "2nd Walk In"
+      },
+      {
+        "time": "14:30",
+        "event": "Family and friends to exit stage",
+        "category": "2nd Walk In"
+      },
+      {
+        "time": "14:35",
+        "event": "Couple’s Thank You speeches",
+        "category": "2nd Walk In"
+      },
+      {
+        "time": "14:40",
+        "event": "Resume 6th course Table Photo-taking – Groomsmen to advance prep tables",
+        "category": "2nd Walk In"
+      },
+      {
+        "time": "14:45",
+        "event": "Serve 7th Course",
+        "category": "2nd Walk In"
+      },
+      {
+        "time": "15:15",
+        "event": "Ensure Photo-taking is completed",
+        "category": "2nd Walk In"
+      },
+      {
+        "time": "15:20",
+        "event": "Couple return to VIP table for dessert",
+        "category": "2nd Walk In"
+      },
+      {
+        "time": "15:25",
+        "event": "Serve 8th Course – Dessert",
+        "category": "2nd Walk In"
+      },
+      {
+        "time": "15:35",
+        "event": "Couple and family to standby to bid guests farewell at Ballroom Entrance",
+        "category": "2nd Walk In"
+      },
+      {
+        "time": "15:45",
+        "event": "Bridesmaids & Groomsmen to pack up own items at foyer, ballroom, changing room",
+        "category": "2nd Walk In"
+      }
+    ]
+  }
+}
